@@ -1,1 +1,1 @@
-let x = s;
+let w=7;
