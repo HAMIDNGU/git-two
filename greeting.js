@@ -1,0 +1,2 @@
+stash;
+let y = "you";
